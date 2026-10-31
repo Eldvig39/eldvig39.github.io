@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+	<meta name="generator" content="Bluefish 2.2.15" >
+	<meta name="created" content="2017-08-15T09:46:28.527377747">
+	<meta name="changed" content="2022-10-13T15:09:45.274525724">
+	 <style type="text/css">
+<!--
+.style1 {font-size: 18px; color:#000000; margin-right: 1cm; text-indent: 2cm; font-weight: bold; }
+.style2 {font-size: 18px; color:rgb(204, 51, 204);font-weight: normal;}
+.style3 {font-size: 18px;color:#000000; margin-right: 1cm; text-indent: 2cm; font-style: normal;font-weight: normal; }
+.style4 {font-size:20px; color:#FF0000;  font-weight: bold;}
+.style5 {font-size: 24px; font-weight: bold;}
+-->
+  </style>
+	<!-- Yandex.Metrika counter -->
+
+<script type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(35383585, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+</head>
+<noscript></noscript>
+<body dir="ltr" lang="ru-RU" link="#000080" vlink="#800000"><div><img src="https://mc.yandex.ru/watch/35383585" style="position: absolute; left: -9999px;" alt=""></div>
+<!-- /Yandex.Metrika counter -->
+<table style="text-align: left; width: 40%; margin-left: auto; margin-right: auto; background-color: rgb(255, 255, 102);" border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="index_en.html" target="_blank"> Home</a><br></font> </td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="novosty.html" target="_blank">News</a><br> </font> </td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="eldvig.html" target="_blank">Eldvig program</a><br> </font> </td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="eldvig_video.html" target="_self">Tutorial video </a></font></td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="price.html" target="" _blank="">Prices</a><br></font></td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="kontacty.html" target="" _blank="">Contact us</a><br></font></td>
+       <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="vopr_eldv.html" target="" _blank="">Answers to questions</a><br></font></td>
+    </tr>
+  </tbody>
+</table>
+<p class="style3" align="center"><big><span style="color: rgb(153, 0, 204);">Select language:</span></big>
+</p>
+<table style="text-align: left; width: 255px; height: 70px; margin-left: auto; margin-right: auto;" border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><img style="width: 50px; height: 32px;" alt="" src="../images/flag_rus.jpg">
+      <br>
+      </td>
+<td><a target="" href="http://eldvig.rf.gd/index.html">Русский ru</a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><img style="width: 53px; height: 28px;" alt="" src="../images/flag_us.png"><br>
+      </td>
+      <td>&nbsp;<a href="http://eldvig.rf.gd/en_us/index_en.html">English (US)</a><br>
+      </td>
+    </tr>
+<tr>
+      <td style="vertical-align: top; text-align: center;"><img style="width: 47px; height: 30px;" alt="" src="../images/flag_brazil.png"><br>
+      </td>
+<td><a href="http://eldvig.rf.gd/pt_br/index_pt_br.html" target="">Português (Brasil)</a></td>
+    </tr>
+  </tbody>
+</table>
+<p class="style1" align="left">Question:&nbsp; <i class="style2">How can I buy the Permanent version of the program?</i>
+</p>
+<p class="style1" align="left">Answer:&nbsp; <i class="style3"> First, download and install the Basic version. If the installation goes well, the program will be able to work on your computer.
+ <br>
+If you represent an organization, then send a request with the details
+and we will issue an invoice for payment by bank transfer.
+<br>
+If you are an individual, then possible payment options
+<br>
+- Through Sberbank to the account of our organization;
+<br>
+- To an individual - by Western Union transfer, or to a Sberbank card.
+In this case, we will not be able to give you documents (invoice, etc.)</i>
+</p>
+ <br>
+<p class="style1" align="left">Question:&nbsp; <i class="style2">After
+reinstalling the computer, the Eldvig program disappeared. I tried to
+download it again via admin, the program requires entering the key, I
+enter the key, it says the file is incorrect. Please check it. Before
+reinstalling, I downloaded the keys to a flash drive, and then
+downloaded them back to documents.</i>
+</p>
+<p class="style1" align="left">Answer:&nbsp; <i class="style3">After
+reinstalling the operating system, all previously created and received
+keys become useless. They will not work. You will have to reinstall the
+Basic version and contact the Developer for a new Developer Key.</i>
+</p>
+ <br>
+<p class="style1" align="left">Question:&nbsp; <i class="style2"> Hello, I want to reinstall my computer. How can I transfer the program without loss? Please help!</i>
+</p>
+<p class="style1" align="left">Answer:&nbsp; <i class="style3">If
+you have previously purchased the Permanent version, install the Basic
+version of the program and contact the Developer by e-mail
+inbalt@mail.ru from the e-mail to which the Developer Key was
+previously sent. You will be sent a new key.
+</i>
+</p>
+<br>
+<p class="style1" align="left">Question:&nbsp; <i class="style2">How can I check if the program has taken the Developer Key? And the
+Permanent version has been installed? I thought it would happen
+automatically.</i>
+</p>
+<p class="style1" align="left">Answer:&nbsp; <i class="style3">After
+receiving the Developer Key (KeyRazrabEldvig.txt), you need to run the
+program. On the first form, click the Administration button. Then the
+Install Program button. And specify the path to the KeyRazrabEldvig.txt
+file that was sent to you.<br>You can watch a video about this at the link;
+<a href="https://www.youtube.com/watch?v=F0K0LesCFiI">https://www.youtube.com/watch?v=F0K0LesCFiI</a>
+or <a href="https://rutube.ru/video/a02e179f915109416342808898f6f54b">https://rutube.ru/video/a02e179f915109416342808898f6f54b</a>.
+<br>
+Read the User Guide - it explains in great detail how to work in the program
+from the program - Splash Screen Form -- Help Menu Item -- User
+Guide. Or on the Internet at the link <a href="https://yadi.sk/i/8VovYuVJswrFY" target="_blank">https://yadi.sk/i/8VovYuVJswrFY</a>.
+<br>
+And also many other videos on working in the program <a href="http://eldvig.rf.gd/eldvig_video.htm">http://eldvig.rf.gd/eldvig_video.html</a>
+or&nbsp; <a href="http://eldvig.bos.ru/eldvig_video.html">http://eldvig.bos.ru/eldvig_video.html</a>.
+<br>
+And also about the program, installation, etc. on the website <a href="http://eldvig.rf.gd">http://eldvig.rf.gd</a>
+ or&nbsp; <a href="http://eldvig.bos.ru/eldvig.html" target="_blank">http://eldvig.bos.ru/eldvig.html</a>.
+</i>
+</p>
+<br>
+<p class="style1" align="left">Question:&nbsp;<i class="style2"> I have a question for you regarding this point. The tooth width is needed
+for calculation, but reference books, as a rule, only provide the size
+and shape of the groove. If it is necessary to recalculate the winding
+data of such an electric motor, is it possible, knowing the internal
+and external diameter of the iron, the size, shape and number of
+grooves, to obtain the calculated tooth width.</i>
+</p>
+<p class="style1" align="left">Answer:&nbsp;<i class="style3">
+The trick is that the program calculates the induction in the machine's
+magnetic circuit in three places - in the stator body, in the gap
+between the stator and the rotor, and the induction in the teeth.
+If there is no tooth width, it is impossible to calculate the induction in the teeth.
+<br>
+Knowingthe internal and external diameter of the iron, the size, shape and
+number of grooves, you can get the calculated width of the tooth very
+approximately, which will reduce the accuracy of the calculation.
+</i>
+</p>
+<br>
+<p class="style1" align="left">Question:&nbsp; <i class="style2">I have a question for you again. In your program, where the ratio of the
+number of rotor and stator slots is entered, is the value selected from
+tables or calculated using formulas?
+</i>
+</p>
+<p class="style1" align="left">Answer:&nbsp;<i class="style3">The
+ratio of the slots in Eldvig is calculated using formulas from the book
+by G.K. Gervais "How to calculate the stator winding of an asynchronous
+motor".
+<br>
+But, since these formulas are for straight slots, we have also
+inserted tables into the program from which this ratio can be selected.
+<br>
+In addition, Gervais' book was written in the 60s, and since then (as is
+evident) many tests have been carried out and new data have been
+developed in practice - which are included in the tables.
+<br>
+Also,
+in Eldvig, control is carried out using tables. If a message appears
+that according to current data everything is in order - then it is so.
+<br>
+In addition, all this can be controlled manually using tables.
+<br>
+There are many tables and they are different for different authors.
+Therefore, the last table from "Design of Electrical Machines", edited
+by I. P. Kopylov, Moscow, Energiya, 1980, was taken - this is the
+largest of all the tables.
+</i>
+</p>
+<br>
+<p class="style1" align="left">Question:&nbsp; <i class="style2">I am currently struggling with AIR 355 M8 at 160 kW 750 rpm. The customer
+is asking if he can lower the revs on M12 and below? I can't find any
+data, I compared it with 4A - they should be similar. But I see that
+there are no such numbers in the slots. I would like to use those
+formulas and calculate it myself if it is unknown, but there are about
+10 formulas and there are ?????. I also found a table here, well, there
+is a general confusion with the slots.
+</i>
+</p>
+<p class="style1" align="left">Answer:&nbsp;<i class="style3"> According
+to your table (Richter table) p=6, Z1=72 and Z2=86 are applicable. In
+addition, Eldvig calculates the ratios using all the formulas given in
+the book by G.K. Gervais "How to Calculate the Stator Winding of an
+Asynchronous Motor"). If Eldvig does not throw Warnings, then
+everything is OK with the ratio of the slots and poles.
+<br>
+As for the tables of ratios in different books by different authors, they
+(the tables) are all different and the data there is different.
+</i>
+</p>
+<br>
+<p class="style1" align="left">Question:&nbsp;<i class="style2">You
+are moving the program forward and forward, great. If it also drew a
+winding diagram, it would be super. I have a calculator program, I
+think it is Spanish, by entering some data you can get diagrams by
+phases and completely. It suits me very well for generators, we created
+it and threw it, saved it. It would be great to make it in Russian or
+improve it.
+</i>
+</p>
+<p class="style1" align="left">Answer:&nbsp;<i class="style3">At the very beginning, when developing Eldvig, we tried to make the program draw a winding diagram.
+<br>
+But it turned out to be too complicated. Very, very complicated. Because
+there are different numbers of slots, poles, phases, plus different
+types of windings.
+<br>
+This is possible in principle, but the labor costs involved will exceed all conceivable profits by tens of times.
+<br>
+There was an idea to make static winding diagrams - in pictures, and show
+pictures depending on the poles, in steps, etc., but there will also be
+a lot of such pictures and the size in MB of the program will grow very
+much. It will become inconvenient for downloading and installation.
+<br>
+That's why we decided not to show the diagrams.
+<br>
+</i>
+<i class="style1"> Note. <i class="style3">This issue is currently resolved. Eldvig is currently drawing winding diagrams programmatically.
+</i>
+</i>
+</p>
+<br>
+<p class="style1" align="left">Question:&nbsp; <i class="style2">Another
+question, I need to recalculate the engine for 220 so that the starting
+and working windings work (both were constantly on). How can this be
+done?
+</i>
+</p>
+<p class="style1" align="left">Answer:&nbsp;<i class="style3">You can calculate a two-phase motor with permanently connected windings as follows.
+ <br>
+1. We consider it as a three-phase motor.
+<br>
+2. In the final form "Summary data" we press the button "Recalculate to single-phase".
+<br>
+3. In the form for entering data for a single-phase electric motor, we
+enter the number of slots occupied by the working winding - half the
+number of stator slots, and in the number of slots occupied by the
+starting winding - the second half of the stator slots.
+<br>
+That is, if the number of stator slots is 24, then we enter 12 in the working window and 12 in the starting window.
+<br>
+4. Press the button "Calculate working winding", select the wire. As a result, we get the wire diameter and the number of turns in the phase of the working winding.
+<br>
+5. We do not count the starting winding.
+<br>
+6. The number of turns in the phase of the working winding is divided into slots, according to the formula:
+<br>
+SpRab= 2*Wкab/Zrab;
+<br>
+where SpRab is the number of turns in the slot of the working winding,
+<br>
+Wrab is the number of turns in the phase of the working winding,
+<br>
+Zrab is the number of slots occupied by the working winding.
+<br>
+The first working winding and the second working winding will be identical and occupy the same number of stator slots.
+<br>
+This is a theory. All that's left for you to do is experiment. But it should all work.
+</i>
+</p>
+<br>
+<p class="style1" align="left">Question:&nbsp; <i class="style2">Another question - my engine will operate in S3 mode. As far as I understand,
+Eldvig calculates parameters for long-term operation mode (S1). What
+parameters can I overstate in calculations?
+</i>
+</p>
+<p class="style1" align="left">Answer:&nbsp;<i class="style3">Yes, Eldvig considers S1 for long-term operating mode.
+<br>
+For S3, you can take a higher current density in the winding, and,
+accordingly, a smaller wire diameter, but I can't say exactly how much.
+<br>
+You can try to roughly estimate this in Eldvig using the Coil
+Calculation. From the Splash Screen, Menu Item Coils -- Recalculate
+for a different duty cycle. In this case, we take the type of current
+as "alternating", we take the phase winding as the coil winding, the
+duty cycle of the old coil is 100%, the duty cycle of the new coil is
+the required Duty Cycle, and the program will give a new wire diameter
+for this Duty Cycle.
+</i>
+</p>
+<br>
+<p class="style1" align="left">Question:&nbsp; <i class="style2">A question about Eldvig arose - why does it only calculate a hard-wired pitch for single-layer windings?
+<br>
+15 kW motor. On the forum, in another program, they calculated a
+single-layer winding with a step of 15, Eldvig only gives a step of 18
+and one parallel. Or am I doing something wrong?
+<br>
+I am trying to get a result in Eldvig - similar to what was calculated on the forum in other programs.
+<br>
+In the future, I have already realized that it is necessary to check
+all motors by hardware and winding data before calculating Slavyanka.
+</i>
+</p>
+<p class="style1" align="left">Answer:&nbsp;<i class="style3">You selected a single-layer coil winding. This is a winding with
+concentric coils. In this case, the coil pitches will be different.
+<br>
+In the search engine, type "Zhervais G.K. How to calculate the stator
+winding of an asynchronous motor". There, on page 15, there are
+recommendations for choosing the winding type. See what Eldvig means by
+"Concentric coils" and "Coil winding".
+<br>
+For a coil winding, Eldvig calculates a certain conditional pitch
+(since the coil pitches will be different) using the formula Y = Z / 2
+/ p. (divide the number of slots by 2 and divide by the number of pole
+pairs). In fact, this is a diametrical pitch. It does not oblige you to
+anything and means nothing (but only for windings with concentric
+coils!).
+<br>
+For single-layer chain windings, the pitches can be changed using the
+"+1" and "-1" buttons. Pressing the button once sets an even step (not
+allowed in chain windings). Pressing it again sets an odd shortened
+step.
+<br>
+For Double-layer windings, the step can be both even and odd - it is also changed by buttons.
+<br>
+In version Eldvig 3.71, we added the "Example" buttons, by clicking on
+which you can see examples of various windings - coil, chain,
+double-layer, with a description of the area of ​​application, etc.
+<br>
+As for parallel branches - they can be set in the "Calculation of
+magnetic and electrical characteristics" form - where inductions are
+selected.
+</i>
+</p>
+<br>
+<p class="style1" align="left">Question:&nbsp; <i class="style2">Do you have text files for the basic motors? The thing is that a lot of
+Chinese come to rewinding (note: electric motors made in China) and it is difficult to select windings for such motors. The winders are wound
+on the basis of the old winding, but I believe that when making
+engines, the Chinese overestimate the induction to save copper or for
+commercial purposes.
+</i>
+</p>
+<p class="style1" align="left">Answer:&nbsp;<i class="style3">As far as I understand, now it is absolutely not profitable for not only
+the Chinese, but also our manufacturers to wind reliable and durable
+motors.
+<br>
+Therefore, manufacturers deliberately overestimate the induction in the
+iron (especially the Chinese), which reduces the number of turns in the
+phase; in calculations, they overestimate the current density, which
+reduces the cross-section of the winding wire - thus saving copper.
+<br>
+In addition, instead of high-quality electrical steel, they use
+low-quality steel, and so on and so forth. All this makes it possible
+not only to save money, but also to maintain a constant demand due to
+the short service life of the motors.
+<br>
+Regarding Chinese motors - we contact the winders. There are cases
+when, say, a 45 kW Chinese motor is rewound, rewound and given to the
+client. A week later it burns out. They bring it again. They start
+recalculating it in the Eldvig program and as a result they get 32
+​​kW. It turns out that the engine is new, just bought to replace the
+Soviet one with a capacity of 45 kW, but it is Chinese. It will not
+work for a long time under a load of 45 kW. It will burn all the time.
+Because it is only 32 kW and overloaded by one and a half times.
+<br>
+We do not have text files. And they are not needed. There is the Eldvig
+program. In it, you can calculate this way and that. You can adjust to
+any customer requests. You just need to get used to it and get your
+hand in.
+<br>
+You can create your own basic text files. Work, save your work in text
+files (*.txt). If the motors you wound burn out and they are brought
+back, you can compare what was with what is needed. And next time,
+calculate and wind better, changing individual parameters. In the same
+way, you can store files in .pdf format, print them, etc. All this is
+done so that Users can improve the quality of calculations, and
+therefore the quality of their work. From text files you can
+immediately insert all the data into the program, and change them
+during calculations, etc., etc.
+</i>
+</p>
+<br>
+<p class="style1" align="left">Question:&nbsp; <i class="style2">I have a question about your Eldvig program. Why does this happen? I
+enter the same engine dimensions twice, and the program gives me
+different data twice, why is that? This shouldn't happen!
+</i>
+</p>
+<p class="style1" align="left">Answer:&nbsp;<i class="style3">If
+you select different windings each time (for example, chain and
+double-layer), then the data will be different, because the winding
+coefficients will be different. If you select different stator
+interleaf insulation (varnish, paper, no insulation), then the
+calculation data will also be different.
+<br>
+Keep in mind that in most modern electric motors, the interleaf
+insulation of the stator sheets is an oxide film on the sheets, and in
+Eldvig you need to select "No insulation". "Varnish" and "Paper" are in
+old motors, or in high-power motors.
+<br>
+If you select different winding steps, then everything will also be
+different, due to the winding coefficients. If you select different
+current densities in the winding each time, then everything will also
+be different due to changes in the efficiency values ​​and cos(f),
+which are calculated in the Eldvig program depending on the full.
+</i>
+</p>
+<br>
+<p class="style1" align="left">Question:&nbsp; <i class="style2">I live in Baku, there are simply no brands of wire that are in the
+program. Absolutely all the wire is Turkish, it is unknown what
+standards and specifications it was produced by, there are simply no
+options.
+</i>
+</p>
+<p class="style1" align="left">Answer:&nbsp;<i class="style3">In the Eldvig program, wires can be entered manually. You can enter
+from one to three arbitrary names and diameters of wires at a time. The
+names can be any. But you need to know the diameters of these wires:
+with insulation and without insulation.
+<br>
+The number of wires of the same name and diameter is not limited.
+<br>
+For example, you can enter the names and diameters:
+<br>
+Wire Turkish No. 1 diameter 1.02 and 1.05 - 2 wires;
+<br>
+Wire Turkish No. 2 diameter 3.04 and 3.8 - 1 wire;
+<br>
+Wire Turkish No. 3 diameter 0.8 and 0.95 - 15 wires.
+<br>
+In total, there will be 18 wires in the slot.
+<br>
+The program itself will calculate the cross-section of one wire of each
+brand with and without insulation, the total cross-sections of wires
+for each brand with and without insulation, and the cross-section of
+the effective conductor - equal to the sum of all wires of all names
+and diameters.
+<br>
+In principle, we can add Turkish wires to the program, but we need to
+know their brands and diameters. If you find a table of Turkish wires -
+send it to us, we will enter them into the program.
+</i>
+</p>
+<br>
+<p class="style1" align="left">Question:&nbsp; <i class="style2">I
+want to recalculate the winding wire of a larger diameter to a smaller
+one, so that the same power remains. I change it, add an additional
+wire of a smaller diameter, set approximately the same cross-section.
+The power is aligned with what I need and what should be, and the
+number of turns does not change. I have tried everything. Can you
+advise?
+</i>
+</p>
+<p class="style1" align="left">Answer:&nbsp;<i class="style3">
+Everything is correct and should be so. Power does not depend on the
+number of turns in the slot. The number of turns in the slot is
+calculated based on the induction you specified in the stator body.
+i.e. the number of turns the program produces is such that the
+induction you specified is created in the stator body.
+<br>
+More turns - less induction and fewer turns - more induction. If you
+need to change the number of turns, then you need to change the
+induction.
+<br>
+Power depends only on the cross-section of the wire and the current density in this wire.
+<br>
+By changing the cross-section of the wire or the current density, you
+can change the power. At the same time, with a higher current density,
+the engine will heat up to a higher temperature. If you change the
+cross-section of the wire to a larger side with the same current
+density, the power will increase, and vice versa.
+<br>
+If I understood you correctly, you need to increase the power a little.
+You add an additional wire of a smaller cross-section, and the winding
+will be wound in two wires. At the same time, the power calculated by
+the program suits you. Everything is fine with you. The number of turns
+will remain the same, both at the same power and at the new one.
+</i>
+</p>
+<br>
+<p class="style1" align="left">Question:&nbsp; <i class="style2">I
+want to calculate, for example, in 3 wires of 1.25 mm. The number of
+turns increases in the groove? As I understand, the number of turns per
+wire remains the same? That is, if 22 turns were specified per groove
+with a 2.5 mm wire, then with 1.25 mm there will be 66 of them in the
+slot.
+</i>
+</p>
+<p class="style1" align="left">Answer:&nbsp;<i class="style3">You
+replace one 2.5 mm diameter wire with three 1.25 mm diameter wires
+connected in parallel. There will be 66 wires in the slot, but there
+will be 22 turns, because these three wires will be connected in
+parallel. The winding will be wound in "three wires", i.e. three wires
+will be wound on the template at once, simultaneously from three coils
+(spools). The output end of each section, the coil will consist of
+three wires with a diameter of 1.25 mm soldered together.
+</i>
+</p>
+<br>
+<p class="style1" align="left">Question:&nbsp; <i class="style2">Hello,
+please tell me if it is possible to use the section "Recalculate coils
+for other voltage" for DC coils. The task is to recalculate a 24 Volt
+DC coil to 220 Volt DC. Or is this calculation only suitable for
+alternating current?
+</i>
+</p>
+<p class="style1" align="left">Answer:&nbsp;<i class="style3">Recalculation
+of coils for other voltage is performed according to the book "Typical
+calculations for electrical equipment", Practical manual, 7th edition,
+revised and supplemented, Moscow, Higher school, 1991. The book says:
+"Recalculation of coils of direct and alternating current devices for
+other voltage values ​​is performed according to formulas ..." and the
+formulas are given. Eldvig calculates exactly according to these
+formulas. Therefore, in Eldvig you can recalculate coils of both direct
+and alternating current. But, you cannot recalculate from direct to
+alternating and vice versa. That is, you can recalculate from direct
+current only to direct current. And from alternating current only to
+alternating current. If you rewind like this, write what you get.
+<br>
+<br>
+</i>
+ <i class="style2">Thanks for the answer. Everything worked out. From observations for DC coils,
+the current density is within the range from 8A per sq.mm to 12-15A per
+sq.mm. Which is of course higher than the values ​​for electric motors
+in comparison. But probably it should be so. It works properly.
+</i>
+</p>
+<br>
+<br>
+<br>
+<table style="text-align: left; width: 40%; margin-left: auto; margin-right: auto; background-color: rgb(255, 255, 102);" border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="index_en.html" target="_blank"> Home</a><br></font> </td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="novosty.html" target="_blank">News</a><br> </font> </td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="eldvig.html" target="_blank">Eldvig program</a><br> </font> </td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="eldvig_video.html" target="_self">Tutorial video </a></font></td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="price.html" target="" _blank="">Prices</a><br></font></td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="kontacty.html" target="" _blank="">Contact us</a><br></font></td>
+       <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="vopr_eldv.html" target="" _blank="">Answers to questions</a><br></font></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+
+</body></html>

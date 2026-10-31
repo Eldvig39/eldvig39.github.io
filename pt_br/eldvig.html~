@@ -1,0 +1,378 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Cálculo de enrolamento</title>
+  <meta name="keywords" content="cálculo de motor elétrico, enrolamento, enrolamentos, enrolamento do estator, cálculo de motor elétrico, cálculo do enrolamento do estator, estator, reparo de motor elétrico, enrolamento, fator de preenchimento de slot">
+  <meta name="description" content="Programas"> 
+	<style type="text/css">
+<!--
+.style1 {font-size: 28px; color: #8A2BE2;	font-weight: bold;}
+.style2 {font-size: 18px; color: #FF0000;	font-weight: bold;}
+.style3 {font-size: 18px; color: #000000; font-weight: normal;}
+.style4 {font-size: 18px; color: #8A2BE2; font-weight: bold;}	
+-->
+</style>
+<a href="https://metrika.yandex.ru/stat/?id=35383585&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/35383585/1_1_FFFFFFFF_EFEFEFFF_0_uniques" style="border: 0pt none ; width: 80px; height: 15px;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (уникальные посетители)" class="ym-advanced-informer" data-cid="35383585" data-lang="ru"></a>
+
+<table style="text-align: left; width: 40%; margin-left: auto; margin-right: auto; background-color: rgb(255, 255, 102);" border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: middle; text-align: center; width: 60px; font-weight: normal;"><small><small><a href="index_pt_br.html">Home page</a></small></small></td>
+      <td style="vertical-align: middle; text-align: center; width: 60px; font-weight: normal;"><font size="-1"><a href="novosty.html" target="_blank">Notícias</a><br> </font> </td>
+      <td style="vertical-align: middle; text-align: center; width: 60px; font-weight: normal;"><font size="-1"><a href="eldvig.html" target="_blank">Programa Eldvig</a><br> </font> </td>
+       <td style="vertical-align: middle; text-align: center; width: 60px; font-weight: normal;"><font size="-1"><a href="eldvig_video.html" target="_self">Vídeo tutorial </a></font></td>
+       <td style="vertical-align: middle; text-align: center; width: 60px; font-weight: normal;"><font size="-1"><a href="price.html" target="" _blank="">Preços</a><br></font></td>
+      <td style="vertical-align: middle; text-align: center; width: 60px; font-weight: normal;"><font size="-1"><a href="kontacty.html" target="" _blank="">Contatem</a><br></font></td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="vopr_eldv.html" target="" _blank="">Respostas às perguntas</a><br></font></td>
+    </tr>
+  </tbody>
+</table>
+<p class="style40" align="center"><big><span style="color: rgb(153, 0, 204);">Selecione o idioma:</span></big><br>
+</p>
+<table style="text-align: left; width: 255px; height: 70px; margin-left: auto; margin-right: auto;" border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><img style="width: 50px; height: 32px;" alt="" src="../images/flag_rus.jpg">
+      <br>
+      </td>
+<td><a target="" href="http://eldvig.rf.gd/index.html">Русский
+ru</a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><img style="width: 53px; height: 28px;" alt="" src="../images/flag_us.png"><br>
+      </td>
+      <td>&nbsp;<a href="http://eldvig.rf.gd/en_us/index_en.html">English (US)</a><br>
+      </td>
+    </tr>
+<tr>
+      <td style="vertical-align: top; text-align: center;"><img style="width: 47px; height: 30px;" alt="" src="../images/flag_brazil.png"><br>
+      </td>
+<td><a href="http://eldvig.rf.gd/pt_br/index_pt_br.html" target="">Português (Brasil)</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+<p class="style1" align="center">Programa "Eldvig"
+<br>
+<br>
+<small>(versão atual 4.11)</small></p>
+<p class="style1" align="center">Atenção - os golpistas estão mais ativos!
+<br>
+</p>
+<p class="style2" align="center">
+<big><big>Caros senhores!</big></big>
+</p>
+<p class="style2" align="left">Informamos que os golpistas têm se
+tornado mais ativos na Internet oferecendo chaves do programa Eldvig,
+do qual supostamente não precisam mais, além de cracks, todo tipo de
+“remédios”, “pílulas”, etc.
+<br>
+A este respeito, informamos que o programa Eldvig e suas chaves são
+únicos em cada computador específico. Chaves exclusivas são geradas
+quando o programa é instalado em um determinado computador e contêm
+dados criptografados sobre esse computador específico:
+<br>
+- parte do número de série e algumas características específicas do processador;
+- parte do número de série da placa-mãe, seu código de modelo e parte do número de série do chip;
+- partes individuais selecionadas de números de série de slots de memória RAM e suas características específicas individuais;
+- partes dos números de série do HDD, SDD em ordem aleatória, seus
+códigos de volume, partes dos códigos do fabricante (atribuídos pelo
+próprio programa) e suas características específicas;
+- partes individuais do número de série da placa de rede;
+- dados sobre o sistema operacional - nome, parte do número da compilação e seus recursos específicos.
+Ao mesmo tempo, não coletamos nenhum dado sobre os usuários do programa Eldvig ou seus equipamentos.
+As Chaves contêm apenas partes ou fragmentos dos números acima, que são
+usados ​​apenas pelo programa e apenas para identificar o computador fornecido.
+Ao tentar transferir um programa, chaves, etc. em outro computador onde
+pelo menos um dos parâmetros ou parte dele não corresponda ao que está
+programado nas teclas, o programa não funcionará!
+Todas as mensagens em fóruns falsos sobre como alguém comprou chaves de outra pessoa e agora o programa funciona e está "incendiado" são
+mentiras.
+Todas as ofertas de cracks, chaves, "remédios", "pílulas" etc. - Isso é mentira.
+Na melhor das hipóteses, pelo seu dinheiro, você receberá dos golpistas uma versão demo antiga, que não é atualizada, que funcionará por 3 dias
+e que tem um monte de erros e funcionalidade limitada.
+<br>
+Para demonstrar os recursos do programa, ofereceremos a você uma Versão
+Limitada gratuita pelos mesmos 3 dias, que é totalmente funcional e
+pode ser atualizada. A versão limitada, além disso, conta com o suporte
+do Desenvolvedor e você poderá receber consultoria, inclusive sobre
+como trabalhar com o programa.
+Não caia nos truques dos golpistas e não jogue seu dinheiro fora.
+</p>
+<p class="style4" align="left">Você pode comprar o programa Eldvig ou obter uma chave gratuita de 5 dias do desenvolvedor
+ entrando em contato pelo e-mail: <a href="mailto:inbalt@mail.ru">inbalt@mail.ru</a>
+ou <a href="eldvig39@mail.ru">eldvig39@mail.ru</a>, ou <a href="inter-balt@yandex.ru">inter-balt@yandex.ru.</a>
+</p>
+<p class="style3" align="left">O programa Eldvig foi desenvolvido para o cálculo de:
+<br>
+- enrolamentos de motores elétricos assíncronos trifásicos com potência de 1 a 100 kW e superior;
+<br>
+- enrolamentos de motores assíncronos monofásicos com enrolamento principal e de partida, sendo o enrolamento de partida desconectado após a partida;
+<br>
+- enrolamentos de motores assíncronos bifásicos com capacitor, com capacitor permanentemente conectado;
+<br>
+- enrolamentos de rotores bobinados;
+<br>
+- enrolamentos das armaduras de máquinas com coletor (motores elétricos e geradores) de corrente contínua, com potência até 10 kW;
+<br>
+- enrolamentos das armaduras e enrolamentos de excitação de micromotores de corrente contínua e alternada, com potência até 1 kW;
+<br>
+- enrolamentos das bobinas de tração de relés, partidores, contatores, etc.
+<br>
+- Com o programa Eldvig, é possível verificar a correção do cálculo do enrolamento existente em um motor elétrico assíncrono trifásico;
+<br>
+- O programa Eldvig permite simular o funcionamento de um motor assíncrono trifásico sob diferentes cargas ajustáveis pelo Usuário, determinando parâmetros chave como rendimento, cos(φ), sin(φ), potência aparente, ativa e reativa, etc.;
+<br>
+- O programa Eldvig pode ser utilizado para elaborar uma estimativa de custos de materiais para a reparação de motores assíncronos (com rotor de gaiola ou rotor bobinado), bem como motores síncronos (com rotor de ímãs permanentes ou eletroímãs).
+<br>
+<br>
+O cálculo de motores assíncronos trifásicos com rotor de gaiola é baseado em uma metodologia (com modificações significativas) descrita no livro de G. K. Zherve, “Como calcular o enrolamento do estator de um motor assíncrono”, Editora Estatal de Energia, Moscou–Leningrado, 1960, além de outras fontes bibliográficas.
+<br>
+O programa foi escrito na linguagem de programação Java e é multiplataforma — pode funcionar nos sistemas operacionais Windows e Linux.
+<br>	
+Para que o programa Eldvig funcione corretamente, o software Java JDK 21 deve estar instalado no seu computador.
+</p>
+
+<p class="style2" align="left">Conheça as capacidades do conjunto de software Eldvig —
+<a target="_blank" href="https://drive.google.com/file/d/16rNlHPMiCmA6XyGX1OTUmFg8z6bXomW9/view?usp=drive_link">Ver capacidades do Eldvig.</a>
+<br>
+<br>
+Para uma visão detalhada do programa, consulte o arquivo —
+<a target="_blank" href="https://drive.google.com/file/d/1aykhlGzpGg4NQv86rkAKaoThUBqcg-QU/view?usp=drive_link">Manual do Usuário completo.</a>
+<br>
+<br>
+Assista aos vídeos de treinamento sobre o uso do programa Eldvig —
+<a target="_blank" href="eldvig_video.html">Assista aos vídeos.</a>
+<br>
+<br>
+Para saber como instalar o Java JDK, consulte o arquivo — 
+<a target="_blank" href="https://drive.google.com/file/d/1QKx-9C7kdHAr8GL4Zk78uMji8oxTd9kX/view?usp=drive_link">Antes de instalar “Eldvig.pdf”.</a>
+<br>
+<br>
+Instalação do conjunto de software Eldvig — 
+<a target="_blank" href="https://drive.google.com/file/d/1Ak2mEr6VMY3L2elHJnr8bSNa9OLx51-e/view?usp=drive_link">Guia de instalação do Eldvig.</a>
+<br>
+<br>
+Veja as respostas às perguntas frequentes sobre o uso do programa Eldvig —
+<a target="_blank" href="vopr_eldv.html">Ver respostas.</a>
+<br>
+<br>
+Você pode baixar o arquivo de instalação do programa Eldvig (versão Básica) de qualquer fonte:<br>
+</p>
+<p class="style4" align="left">
+Baixar do GitHub:&nbsp&nbsp <a href="https://github.com/InterBalt/Eldvig/releases#release-v.4.10">Baixar.</a>
+<br><br>
+Baixar da Google Drive:&nbsp&nbsp <a href="https://drive.google.com/file/d/1Ownu6v1E9oq_OQ3eQbYkhN8owOe1Djp-/view?usp=drive_link">Baixar.</a>
+<br><br>
+Baixar do Yandex Disk:&nbsp&nbsp <a href="https://disk.yandex.ru/d/V7LVa2q7J3qIpQ">Baixar.</a>
+<br><br>
+</p>
+<p class="style3" align="left">Não existe mais uma versão Demo gratuita do programa Eldvig. Em seu lugar, há a versão Básica — você pode verificar se o programa Eldvig será instalado no seu computador,
+assistir aos vídeos sobre o uso do programa,
+ler o Manual do Usuário, conhecer as novidades nas versões,
+etc.
+<br>
+Há também versões pagas com funcionalidade completa e diferentes períodos de validade —
+por 5 dias, por 8 dias, por 12 dias e a versão Permanente — licença de uso ilimitado.
+<br>
+Verifique os preços das versões na seção “Preços”.
+<br>
+Para instalar a versão Básica do programa Eldvig:
+<br>
+1. Baixe o arquivo InstallEldvig.zip usando o link acima ou solicite o arquivo enviando um e‑mail para inbalt@mail.ru;
+<br>
+2. Descompacte o arquivo InstallEldvig.zip;
+<br>
+3. Acesse a pasta InstallEldvig e instale o Java JDK 21 a partir do arquivo de instalação (ou baixe e instale o Java JDK 21 de outros fornecedores);
+<br>
+4. Após instalar o Java JDK 21, execute o arquivo InstallEldvig.jar da pasta InstallEldvig.
+<br>
+<br>
+5. Siga as instruções de instalação com atenção;
+<br>
+6. Após a instalação, você pode excluir as pastas InstallEldvig.zip e InstallEldvig.
+<br>
+</p>
+<!-- любой текст или код 
+Скачать установочный архив программы Eldvig: <br>
+По техническим причинам скачивание программы Eldvig временно недоступно.
+Ознакомиться с программой Вы можете посмотрев Видео по ссылке выше.
+</p>
+-->
+<p class="style4" align="left">Para todas as outras dúvidas, entre em contato conosco pelo e-mail <a href="mailto:inbalt@mail.ru">inbalt@mail.ru</a>
+ou <a href="eldvig39@mail.ru">eldvig39@mail.ru</a>, ou <a href="inter-balt@yandex.ru">inter-balt@yandex.ru.</a>
+<br>
+Ficaremos muito gratos por seus comentários e sugestões sobre o programa Eldvig.
+<br>
+</p>
+<p class="style3" align="center">
+Abaixo estão alguns (mas não todos!) dos formulários e relatórios do programa Eldvig.
+<br>
+Para mais detalhes, assista ao vídeo de treinamento<a target="_blank" href="eldvig_video.html">Assistir vídeos</a>
+<br>
+ou leia o Manual do Usuário - (descrição muito detalhada de tudo em russo) - <a target="_blank" href="EldvigHelp.pdf">
+Leia o Manual do Usuário.</a>
+<br>
+<br>
+<br>
+<img style="width: 698px; height: 895px;" alt="Imagem &quot;Mapa de Medição do Estator&quot;" src="images/karta.png">
+<br>
+Figura 1 - Antes dos cálculos, imprima e preencha o formulário Mapa de Medição do Estator.
+<br>
+<br>
+<br>
+<img style="width: 982px; height: 723px;" alt="Imagem &quot;Cálculo da geometria do estator&quot;" src="images/stator.png">
+<br>
+<br>Figura 2 - Cálculo da geometria do estator.
+<br>
+<br>
+<br>
+<img style="width: 998px; height: 624px;" alt="Imagem &quot;Cálculo das características magnéticas e elétricas&quot;" src="images/magnit.png">
+<br>
+Figura 3 - Cálculo das características magnéticas e elétricas.
+<br>
+<br>
+<br>
+<img style="width: 991px; height: 570px;" alt="Imagem &quot;Selecionando o tipo de ranhura e calculando a área da ranhura&quot;" src="images/raschet_paza.png">
+<br>
+Figura 4 - Selecionando o tipo de ranhura e calculando a área da ranhura.
+<br>
+<br>
+<br>
+<img style="width: 994px; height: 674px;" alt="Imagem &quot;Selecionando o fio de enrolamento" src="images/vybor_provoda.png">
+<br>
+Figura 5 - Selecionando o fio de enrolamento.
+<br>
+<br>
+<br>
+<img style="width: 993px; height: 682px;" alt="Imagem &quot;Cálculo da potência do motor elétrico&quot;" src="images/raschet_moschn.png">
+<br>
+Figura 6 - Cálculo da potência do motor elétrico.
+<br>
+<br>
+<br>
+<img style="width: 1363px; height: 651px;" alt="Imagem  &quot;Resumo dos resultados do cálculo do enrolamento do estator&quot;" src="images/svodnye_dannye.png">
+<br>
+Figura 7 - Resumo dos resultados do cálculo do enrolamento do estator.
+<br>
+<br>
+<br>
+<img style="width: 542px; height: 764px;" alt="Imagem &quot;O relatório de resultados dos cálculos pode ser impresso e salvo no formato ***.pdf&quot;" src="images/otchet1.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img style="width: 538px; height: 640px;" alt="resultados2" src="images/otchet2.png" align="top">
+<br>
+Figura 8 - O relatório de resultados dos cálculos pode ser impresso e salvo no formato ***.pdf.
+<br>
+<br>
+<br>
+<img style="width: 1336px; height: 780px;" alt="Imagem &quot;Diagrama de um enrolamento&quot;" src="images/shema1.png">
+<br>
+Figura 9 - Diagrama de um enrolamento de dois níveis com bobinas concêntricas, construído no programa Eldvig.
+<br>
+Z = 96, p = 8, a = 4.
+<br>
+<br>
+<br>
+<img style="width: 1313px; height: 713px;" alt="Imagem &quot;Diagrama de um enrolamento&quot;" src="images/shema2.png">
+<br>
+Figura 10 - Diagrama de um enrolamento bamboleante de seção igual e camada única, construído no programa Eldvig.<br>
+Z = 96, p = 8, a = 4/
+<br>
+<br>
+<br>
+<img style="width: 1303px; height: 706px;" alt="Imagem &quot;Diagrama de um enrolamento&quot;" src="images/shema3.png">
+<br>
+Figura 11 - Diagrama esquemático de um enrolamento de loop de duas camadas construído no programa Eldvig.
+<br>
+Z = 36, p = 2, a = 2.
+<br>
+<br>
+<br>
+<img style="width: 996px; height: 614px;" alt="Imagem &quot;Cálculo do fio terminal&quot;" src="images/provvyb.png">
+<br>
+Figura 12 - Cálculo do fio terminal.
+<br>
+<br>
+<br>
+<img style="width: 639px; height: 790px;" alt="Imagem &quot;Mapa de medição do rotor de fase&quot;" src="images/kartafr1.png">&nbsp;&nbsp; <img style="width: 634px; height: 625px;" alt="" src="images/kartafr2.png"><br><span style="color: black; font-weight: normal;">
+<br>
+Figura 13 - Mapa de medição do rotor de fase.</span><br>
+<br>
+<br>
+<br>
+<img style="width: 1156px; height: 577px;" alt="Imagem &quot;Dados resumidos enrolamento do rotor de fase&quot;" src="images/svodnyfr.png">
+<br>
+Figura 14 - Dados resumidos do cálculo do enrolamento do rotor de fase.
+<br>
+<br>
+<br>
+<img style="width: 649px; height: 694px;" alt="Imagem &quot;Início do cálculo de motores elétricos monofásicos&quot;" src="images/nachalorasch1f.png">
+<br>
+Figura 15 - Início do cálculo de motores elétricos monofásicos.
+<br>
+<br>
+<br>
+<img style="width: 1149px; height: 1127px;" alt="Imagem &quot;Cálculo dos enrolamentos de um motor elétrico monofásico com capacitor de partida&quot;" src="images/odnofaz.png">
+<br>
+<br><span style="color: black; font-weight: normal;">Figura 16 - Cálculo dos enrolamentos de um motor elétrico monofásico com capacitor de partida.
+<br>
+<br>
+<br>
+<img style="width: 684px; height: 861px;" alt="Imagem &quot;Relatório de cálculo de motor elétrico monofásico&quot;" src="images/otchet1f.png">
+<br>
+Figura 17 - Relatório de cálculo de motor elétrico monofásico.
+<br>
+<br>
+<br>
+<img style="width: 1167px; height: 677px;" alt="Imagem &quot;Recálculo da bobina para uma tensão diferente&quot;" src="images/katu.png">
+<br>
+Figura 18 - Recálculo da bobina para uma tensão diferente.
+<br>
+<br>
+<br>
+<img style="width: 1165px; height: 597px;" alt="Imagem &quot;Cálculo de uma bobina de corrente alternada ao longo de um núcleo magnético&quot;" src="images/katpoln.png">
+<br>
+Figura 19 – Cálculo de uma bobina de corrente alternada ao longo de um núcleo magnético.
+<br>
+<br>
+<br>
+<img style="width: 449px; height: 479px;" alt="Imagem &quot;Início do cálculo das armaduras e micromotores comutadores&quot;" src="images/yak1.png">
+<br>
+Figura 20 – Início do cálculo das armaduras e micromotores comutadores.
+<br>
+<br>
+<br>
+<img style="width: 1164px; height: 889px;" alt="Imagem &quot;Cálculo do enrolamento da armadura de uma máquina elétrica de 1...10 kW&quot;" src="images/vyborobmyak.png">
+<br>
+Figura 21 – Cálculo do enrolamento da armadura de uma máquina elétrica de 1...10 kW.
+<br>
+<br>
+<br>
+<img style="width: 1264px; height: 1525px;" alt="Imagem &quot;Tabela resumo dos dados de cálculo do micromotor DC&quot;" src="images/micromotor.png">
+<br>
+Figura 22 – Tabela resumo dos dados de cálculo do micromotor CC.
+<br>
+<br>
+</p>
+<p class="style4" align="center">Por favor, envie seus comentários, sugestões e desejos sobre o programa Eldvig para <a href="mailto:inbalt@mail.ru">inbalt@mail.ru</a>
+ou <a href="eldvig39@mail.ru">eldvig39@mail.ru</a>, ou <a href="inter-balt@yandex.ru">inter-balt@yandex.ru.</b></a>
+</p>
+<br>
+<br>
+</p>
+<table style="text-align: left; width: 40%; margin-left: auto; margin-right: auto; background-color: rgb(255, 255, 102);" border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: middle; text-align: center; width: 60px; font-weight: normal;"><small><small><a href="index_pt_br.html">Home page</a></small></small></td>
+      <td style="vertical-align: middle; text-align: center; width: 60px; font-weight: normal;"><font size="-1"><a href="novosty.html" target="_blank">Notícias</a><br> </font> </td>
+      <td style="vertical-align: middle; text-align: center; width: 60px; font-weight: normal;"><font size="-1"><a href="eldvig.html" target="_blank">Programa Eldvig</a><br> </font> </td>
+       <td style="vertical-align: middle; text-align: center; width: 60px; font-weight: normal;"><font size="-1"><a href="eldvig_video.html" target="_self">Vídeo tutorial </a></font></td>
+       <td style="vertical-align: middle; text-align: center; width: 60px; font-weight: normal;"><font size="-1"><a href="price.html" target="" _blank="">Preços</a><br></font></td>
+      <td style="vertical-align: middle; text-align: center; width: 60px; font-weight: normal;"><font size="-1"><a href="kontacty.html" target="" _blank="">Contatem</a><br></font></td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="vopr_eldv.html" target="" _blank="">Respostas às perguntas</a><br></font></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+ 	</body></html>

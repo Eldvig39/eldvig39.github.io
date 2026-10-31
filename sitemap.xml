@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- Файл sitemap.xml динамически создан сайтом https://gensitemap.ru/ 24.06.2017 16:35,
+	всего найдено 6. страниц-->
+	<url>
+		<loc>http://eldvig.rf.gd/</loc>
+		<lastmod>2017-06-24T16:35:07+03:00</lastmod>
+		<priority>1</priority>
+		<changefreq>always</changefreq>
+	</url>
+	<url>
+		<loc>http://http://eldvig.rf.gd/eldvig.html</loc>
+		<lastmod>2017-06-24T16:35:07+03:00</lastmod>
+		<priority>0.5</priority>
+		<changefreq>hourly</changefreq>
+	</url>
+	<url>
+		<loc>http://eldvig.rf.gd/eldvig_video.html</loc>
+		<lastmod>2017-06-24T16:35:07+03:00</lastmod>
+		<priority>0.5</priority>
+		<changefreq>hourly</changefreq>
+	</url>
+	<url>
+		<loc>http://eldvig.rf.gd/katalog.htm</loc>
+		<lastmod>2017-06-24T16:35:07+03:00</lastmod>
+		<priority>0.5</priority>
+		<changefreq>hourly</changefreq>
+	</url>
+	<url>
+		<loc>http://eldvig.rf.gd/kontacty.html</loc>
+		<lastmod>2017-06-24T16:35:07+03:00</lastmod>
+		<priority>0.5</priority>
+		<changefreq>hourly</changefreq>
+	</url>
+	<url>
+		<loc>http://eldvig.rf.gd/price.html</loc>
+		<lastmod>2017-06-24T16:35:07+03:00</lastmod>
+		<priority>0.5</priority>
+		<changefreq>hourly</changefreq>
+	</url>
+	<url>
+		<loc>http://eldvig.rf.gd/vopr_eldv.html</loc>
+		<lastmod>2017-06-24T16:35:07+03:00</lastmod>
+		<priority>0.5</priority>
+		<changefreq>hourly</changefreq>
+	</url>
+</urlset>		     		    			    

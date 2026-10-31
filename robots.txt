@@ -1,0 +1,5 @@
+
+User-Agent: *
+Allow: /
+Host: http://eldvig.rf.gd
+Sitemap: http://http://eldvig.rf.gd/sitemap.xml

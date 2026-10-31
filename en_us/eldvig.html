@@ -1,0 +1,430 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<meta charset="UTF-8"><title>Winding calculation</title>
+  <meta name="keywords" content="electric motor calculation, winding, windings, stator winding, electric motor calculation, stator winding calculation, stator, electric motor repair, winding, slot fill factor">
+  <meta name="description" content="Programs"> 
+<style type="text/css">
+<!--
+.style1 {font-size: 28px; color: #8A2BE2;	font-weight: bold;}
+.style2 {font-size: 18px; color: #FF0000;	font-weight: bold;}
+.style3 {font-size: 18px; color: #000000; font-weight: normal;}
+.style4 {font-size: 18px; color: #8A2BE2; font-weight: bold;}	
+-->
+</style>
+<a href="https://metrika.yandex.ru/stat/?id=35383585&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/35383585/1_1_FFFFFFFF_EFEFEFFF_0_uniques" style="border: 0pt none ; width: 80px; height: 15px;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (уникальные посетители)" class="ym-advanced-informer" data-cid="35383585" data-lang="ru"></a>
+<table style="text-align: left; width: 40%; margin-left: auto; margin-right: auto; background-color: rgb(255, 255, 102);" border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="index_en.html" target="_blank"> Home</a><br></font> </td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="novosty.html" target="_blank">News</a><br> </font> </td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="eldvig.html" target="_blank">Eldvig program</a><br> </font> </td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="eldvig_video.html" target="_self">Tutorial video </a></font></td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="price.html" target="" _blank="">Prices</a><br></font></td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="kontacty.html" target="" _blank="">Contact us</a><br></font></td>
+       <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="vopr_eldv.html" target="" _blank="">Answers to questions</a><br></font></td>
+    </tr>
+  </tbody>
+</table>
+<p class="style40" align="center"><big><span style="color: rgb(153, 0, 204);">Select language:</span></big>
+</p>
+<table style="text-align: left; width: 255px; height: 70px; margin-left: auto; margin-right: auto;" border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><img style="width: 50px; height: 32px;" alt="" src="../images/flag_rus.jpg">
+      <br>
+      </td>
+<td><a target="" href="http://eldvig.rf.gd/index.html">Русский
+ru</a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><img style="width: 53px; height: 28px;" alt="" src="../images/flag_us.png"><br>
+      </td>
+      <td>&nbsp;<a href="http://eldvig.rf.gd/en_us/index_en.html">English (US)</a><br>
+      </td>
+    </tr>
+<tr>
+      <td style="vertical-align: top; text-align: center;"><img style="width: 47px; height: 30px;" alt="" src="../images/flag_brazil.png"><br>
+      </td>
+<td><a href="http://eldvig.rf.gd/pt_br/index_pt_br.html" target="">Português (Brasil)</a></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<p class="style1" align="center">Eldvig program
+<br>
+<small>(current version 4.11)</small>
+<br>
+</p>
+<p class="style1" align="center">Attention - scammers have become more active!
+<br>
+</p>
+<p class="style2" align="center">
+<big><big>Dear ladies and gentlemen!</big></big>
+</p>
+<p class="style2" align="left">
+We inform you that fraudsters have become more active on the Internet
+offering keys to the Eldvig program, cracks, all sorts of "medicines",
+"pills", etc., which they allegedly no longer need.
+In this regard, we inform you that the Eldvig program and its keys are
+unique on each specific computer. Unique keys are generated when
+installing the program on a given computer and contain encrypted data
+about this specific computer:
+- part of the serial number and some specific features of the processor;
+<br>
+- part of the serial number of the motherboard, its model code and part of the serial number of the chip;
+<br>
+- individual selective parts of the serial numbers of RAM memory slots, and their individual specific features;
+<br>
+- parts of the serial numbers of HDD, SDD in random order, their volume codes, parts of the
+manufacturer codes (assigned by the program itself) and their specific
+features;
+<br>
+- individual parts of the serial number of the network card;
+<br>
+- data about the operating system - name, part of the build number and its specific features
+<br>
+At the same time, we do not collect any data about the Users of the Eldvig program or their equipment
+<br>
+The Keys contain only
+fragmentary fragments or parts of the above numbers, which are used
+only by the program and only to identify this computer
+<br>
+If you try to transfer the
+program, Keys, etc. to another computer where at least one of the
+parameters or part of it does not correspond to what is sewn into the
+keys, the program will not work!
+<br>
+All messages on fake forums about someone buying keys from someone and now the program works and it is "fire" are lies
+<br>
+All offers of cracks, keys, "medicines", "pills", etc. are lies
+<br>
+In the best case, for your money, you will receive from the scammers an ancient Demo version,
+which is not updated, which will work for 3 days and which has a bunch
+of errors and limited functionality<br>
+<br>
+To demonstrate the capabilities of the program, we will give you a Limited version for the
+same 3 days for free, which is full in functionality and can be updated. The limited version, in addition, is supported by the
+Developer and you will be able to get advice, including on working with the program
+<br>
+Do not fall for the tricks of scammers and do not throw money down the drain.
+<br>
+</p>
+<p class="style4" align="left">You can purchase the Eldvig program or get a free 3-day Key from the Developer by contacting the email address <a href="mailto:inbalt@mail.ru">inbalt@mail.ru</a>
+or <a href="eldvig39@mail.ru">eldvig39@mail.ru</a>, or <a href="inter-balt@yandex.ru">inter-balt@yandex.ru.</a>
+</p>
+<p class="style3" align="left">Eldvig program is designed to calculate:
+<br>
+- windings of three-phase asynchronous electric motors with a power of 1 to 100 kW and more;
+<br>
+- windings of phase rotors;
+<br>
+- windings of armatures of collector machines (electric motors and generators) of direct current with a power of up to 10 kW;
+<br>
+- windings of armatures and excitation windings of direct and alternating current micromotors with a power of up to 1 kW;
+<br>
+- windings of pull-in coils of relays, starters, contactors, etc.
+<br>
+- iIn the Eldvig program, you can check the correctness of the
+calculation of the existing winding of a three-phase asynchronous
+electric motor;
+<br>
+- In the Eldvig program, you can simulate the operation of a
+three-phase asynchronous electric motor under various loads changed by
+the User with the definition of the main parameters - efficiency, cos
+(f), sin (f), total, active and reactive power, etc.;
+<br>
+- In the Eldvig program, you can create an estimate for materials for
+the repair of asynchronous electric motors - with a squirrel-cage and
+phase rotor, as well as synchronous electric motors - with a rotor on
+permanent magnets or on electromagnets.
+<br>
+This is only a part of the Eldvig program capabilities. For more detailed information about all the program capabilities, see <a href="https://disk.yandex.ru/i/mjWf17vQH3fTxw" target="_blank">EldvigFeatuгes.pdf.</a>
+<br>
+<br>
+The calculation of three-phase asynchronous electric motors with a squirrel-cage rotor is
+based on the methodology (with significant changes) set out in the book
+by G.K. Zherve "How to calculate the stator winding of an asynchronous
+motor", State Power Publishing House, Moscow-Leningrad, 1960, as well
+as using other literature.
+<br>
+The program is written in the Java programming language and is
+cross-platform - it can run on Windows and Linux operating systems.
+<br>
+For the Eldvig program to work properly, Java 21 software or higher must be installed on your computer.
+<br>a) Or from Oracle.
+<br>
+b) Or completely free software OpenJDK 21 - in case you are not satisfied with the License Agreement from Oracle.
+<br>
+<p class="style3" align="left">The Eldvig program is designed to calculate:
+<br>
+- windings of three‑phase asynchronous electric motors with power from 1 kW to 100 kW and above;
+<br>
+- windings of single‑phase asynchronous electric motors with main and starting windings, where the starting winding is disconnected after startup;
+<br>
+- windings of two‑phase asynchronous capacitor motors with a permanently connected capacitor;
+<br>
+- windings of wound‑rotor motors;
+<br>
+- armature windings of commutator machines (electric motors and generators) operating on direct current, with power up to 10 kW;
+<br>
+- armature and field windings of DC and AC micromotors with power up to 1 kW;
+<br>
+- windings of pull‑in coils for relays, starters, contactors, etc.
+<br>
+- The Eldvig program allows you to verify the correctness of the winding calculation for an existing three‑phase asynchronous electric motor;
+<br>
+- The Eldvig program enables simulation of a three‑phase asynchronous motor’s operation under various loads adjustable by the User, determining key parameters such as efficiency, cos(φ), sin(φ), apparent, active, and reactive power, etc.;
+<br>
+- The Eldvig program can be used to prepare a materials cost estimate for repairing asynchronous motors (with squirrel‑cage or wound rotors) as well as synchronous motors (with permanent magnet or electromagnet rotors).
+<br>
+<br>
+Calculation of three‑phase asynchronous motors with squirrel‑cage rotors is based on a methodology (with significant modifications) described in the book by G. K. Zherve, “How to Calculate the Stator Winding of an Asynchronous Motor,” State Energy Publishing House, Moscow–Leningrad, 1960, as well as using other literature sources.
+<br>
+The program is written in Java and is cross‑platform — it can run on Windows and Linux operating systems.
+<br>	
+For the Eldvig program to function properly, Java JDK 21 must be installed on your computer.
+</p>
+<p class="style2" align="left">Learn about the capabilities of the Eldvig software suite —
+<a target="_blank" href="https://drive.google.com/file/d/16rNlHPMiCmA6XyGX1OTUmFg8z6bXomW9/view?usp=drive_link">View Eldvig Capabilities.</a>
+<br>
+<br>
+For a detailed overview of the program, see the file —
+<a target="_blank" href="https://drive.google.com/file/d/1aykhlGzpGg4NQv86rkAKaoThUBqcg-QU/view?usp=drive_link">Full User Manual.</a>
+<br>
+<br>
+Watch training videos on working with the Eldvig program —
+<a target="_blank" href="eldvig_video.html">Watch Videos.</a>
+<br>
+<br>
+To learn how to install Java JDK, see the file — 
+<a target="_blank" href="https://drive.google.com/file/d/1QKx-9C7kdHAr8GL4Zk78uMji8oxTd9kX/view?usp=drive_link">Before Installing “Eldvig.pdf”.</a>
+<br>
+<br>
+Installing the Eldvig software suite — 
+<a target="_blank" href="https://drive.google.com/file/d/1Ak2mEr6VMY3L2elHJnr8bSNa9OLx51-e/view?usp=drive_link">Eldvig Installation Guide.</a>
+<br>
+<br>
+View answers to frequently asked questions about working with the Eldvig program —
+<a target="_blank" href="vopr_eldv.html">View Answers.</a>
+<br>
+<br>
+You can download the Eldvig installation archive (Basic version) from any source:<br>
+</p>
+<p class="style4" align="left">
+Download from GitHub:&nbsp&nbsp <a href="https://github.com/InterBalt/Eldvig/releases#release-v.4.11">Download.</a>
+<br><br>
+Download from Google Drive:&nbsp&nbsp <a href="https://drive.google.com/file/d/1Ownu6v1E9oq_OQ3eQbYkhN8owOe1Djp-/view?usp=drive_link">Download.</a>
+<br><br>
+Download from Yandex Disk:&nbsp&nbsp <a href="https://disk.yandex.ru/d/V7LVa2q7J3qIpQ">Download.</a>
+<br><br>
+</p>
+<p class="style3" align="left">There is no longer a free Demo version of the Eldvig program. Instead, there is a Basic version — you can check whether the Eldvig program will install on your computer,
+watch videos on how to use the program,
+read the User Manual, review the new features in the versions,
+etc.
+<br>
+There are also paid full‑featured versions with different validity periods —
+for 5 days, for 8 days, for 12 days, and a Permanent version — an unlimited‑use license.
+<br>
+Check the prices for the versions in the “Prices” section.
+<br>
+To install the Basic version of the Eldvig program:
+<br>
+1. Download the InstallEldvig.zip archive using the link above or request the archive by emailing inbalt@mail.ru;
+<br>
+2. Extract the InstallEldvig.zip archive;
+<br>
+3. Go to the InstallEldvig folder and install Java JDK 21 from the installation archive (or download and install Java JDK 21 from other providers);
+<br>
+4. After installing Java JDK 21, run the InstallEldvig.jar file from the InstallEldvig folder.
+<br>
+<br>
+5. Follow the installation instructions carefully;
+<br>
+6. After installation, you can delete the InstallEldvig.zip and InstallEldvig folders.
+<br>
+</p>
+<!-- любой текст или код 
+Скачать установочный архив программы Eldvig: <br>
+По техническим причинам скачивание программы Eldvig временно недоступно.
+Ознакомиться с программой Вы можете посмотрев Видео по ссылке выше.
+</p>
+-->
+<p class="style4" align="left"> For all other questions, please contact us by email <a href="mailto:inbalt@mail.ru">inbalt@mail.ru</a> or <a href="eldvig39@gmail.com">eldvig39@gmail.com</a>
+<br>
+<br>
+We will be very grateful for your comments and suggestions on the Eldvig program.
+<br>
+</p>
+ <p class="style3" align="center"><big>Below are some (but not all!) of the Eldvig program forms and reports.
+ <br>
+ For more details, watch the training videos <a target="_blank" href="eldvig_video.html">Watch videos (rus)</a>
+ <br>
+or read the User Manual - (very detailed description of everything) - <a target="_blank" href="https://disk.yandex.ru/i/NzpRyK5DnY3Flw">Read the Eldvig Help Guide.</big></a>
+<br>
+<br>
+<img style="width: 869px; height: 626px;" alt="Image &quot;Stator Measurement Map form&quot;" src="images/kzs.png">
+<br>
+Figure 1 - Before calculations, print out and fill out the Stator Measurement Map form.
+<br>
+<br>
+<br>
+<img style="width: 817px; height: 601px;" alt="Image &quot;Calculation of stator geometry&quot;" src="images/srs.png">
+<br>
+Figure 2 - Calculation of stator geometry.
+<br>
+<br>
+<br>
+<img style="width: 803px; height: 579px;" alt="Image &quot;Calculation of magnetic and electrical characteristics&quot;" src="images/sro.png">
+<br>
+Figure 3 - Calculation of magnetic and electrical characteristics.<br>
+<br>
+<br>
+<br>
+<img style="width: 808px; height: 514px;" alt="Image &quot;Selecting the slot type and calculating the slot area&quot;" src="images/orp.png">
+<br>
+Figure 4 - Selecting the slot type and calculating the slot area.
+<br>
+<br>
+<br>
+<img style="width: 806px; height: 561px;" alt="Image &quot;Calculation of winding wire&quot;" src="images/orpr.png">
+<br>
+Figure 5 - Calculation of winding wire.
+<br>
+<br>
+<br>
+<img style="width: 487px; height: 602px;" alt="Image &quot;Calculation of the length of the turn&quot;" src="images/sdv.png">
+<br>
+Figure 6 - Calculation of the length of the turn.
+<br>
+<br>
+<br>
+<img style="width: 896px; height: 614px;" alt="" src="images/srm.png">
+<br>
+Figure 7 - Calculation of electric motor power.
+<br>
+<br>
+<br>
+<img style="width: 1076px; height: 536px;" alt="Image &quot;Summary of stator winding calculation results&quot;" src="images/ssd.png">
+<br>
+Figure 8 - Summary of stator winding calculation results.
+<br>
+<br>
+<br>
+<img style="width: 1178px; height: 836px;" alt="Image &quot;The calculation results report &quot;" src="images/pechat.png">
+<br>
+Figure 9 - The calculation results report can be printed and saved in&nbsp;&nbsp;&nbsp; .pdf format.
+<br>
+<br>
+<br>
+<img style="width: 1294px; height: 753px;" alt="Image &quot;Winding diagram&quot;" src="images/sh.png">
+<br>
+Figure 10 - <span style="color: black; font-weight: normal;">Diagram </span> of a two-tier winding with concentric coils, constructed in the Eldvig program.
+<br>
+Z = 96, p = 8, a = 4.
+<br>
+<br>
+<br>
+<img style="width: 1306px; height: 759px;" alt="Image &quot;Winding diagram&quot;" src="images/sh1.png">
+<br>
+Figure 11 - Diagram of a single-layer equal-section waddling winding constructed in the Eldvig program.
+<br>
+Z = 96, p = 8, a = 4.
+<br>
+<br>
+<br>
+<img style="width: 1296px; height: 753px;" alt="Image &quot;Winding diagram&quot;" src="images/sh2.png">
+<br>
+Figure 12 - Schematic of a two-layer loop winding constructed in the Eldvig program. Z = 96, p = 8, a = 2.
+<br>
+<br>
+<br>
+<img style="width: 1019px; height: 683px;" alt="Image &quot;Calculation of the terminal wire&quot;" src="images/prv3.png"><br>
+Figure 13 - Calculation of the terminal wire.</span><br>
+<br>
+<br>
+<br>
+<img style="width: 1265px; height: 908px;" alt="Image &quot;Phase rotor measurement map&quot;" src="images/kzfr.png">
+<br>
+Figure 12 - Phase rotor measurement map.
+<br>
+<br>
+<br>
+<br>
+<img style="width: 1067px; height: 532px;" alt="Image &quot;Summary data of the phase rotor winding calculation&quot;" src="images/ssdfr.png">
+<br>
+Figure 13 - Summary data of the phase rotor winding calculation.<br style="color: black; font-weight: normal;">
+<br>
+<br>
+<br>
+<img style="width: 1041px; height: 985px;" alt="Image &quot; Calculation of windings of a single-phase electric motor&quot;" src="images/3v1.png">
+<br>
+Figure 14 - Calculation of windings of a single-phase electric motor.</span><br>
+<br>
+<br>
+<br>
+<img style="width: 648px; height: 901px;" alt="Image &quot;Single-phase electric motor calculation report&quot;" src="images/otch1f.png">
+<br>
+Figure 15 - Single-phase electric motor calculation report.
+<br>
+<br>
+<br>
+<img style="width: 976px; height: 667px;" alt="Image &quot;Calculation of connection of a three-phase electric motor to a single-phase network&quot;" src="images/vkl3v1.png">
+<br>
+Figure 16 - Calculation of connection of a three-phase electric motor to a single-phase network.
+<br>
+<br>
+<br>
+<img style="width: 647px; height: 979px;" alt="Image &quot;Report on connecting a 3-phase electric motor to a single-phase network&quot;" src="images/otchvkl3v1.png">
+<br>
+Figure 17 - Report on connecting a 3-phase electric motor to a single-phase network.
+<br>
+<br>
+<br>
+<img style="width: 985px; height: 572px;" alt="icture &quot;Recalculation of the coil for a different voltage&quot;" src="images/kdu.png">
+<br>
+Figure 18 - Recalculation of the coil for a different voltage.
+<br>
+<br>
+<br>
+<img style="width: 969px; height: 565px;" alt="Image &quot;Recalculation of the coil for a different switching duration&quot;" src="images/kdpv.png">
+<br>
+Figure 19 - Recalculation of the coil for a different switching duration.
+<br>
+<br>
+<br>
+<img style="width: 950px; height: 478px;" alt="Image &quot;Calculation of an AC coil by magnetic core&quot;" src="images/kdm.png">
+<br>
+Figure 20 - Calculation of an AC coil by magnetic core.
+<br>
+<br>
+<br>
+<img style="width: 657px; height: 979px;" alt="Image &quot;Report on calculation of AC coil by magnetic cor&quot;" src="images/otchkat.png">
+<br>
+Figure 21 - Report on calculation of AC coil by magnetic core.
+</p>
+<br>
+<br>
+<p class="style4" align="center">
+Please send your comments, suggestions and wishes about the Eldvig program to <a href="mailto:inbalt@mail.ru">inbalt@mail.ru</a>
+or <a href="eldvig39@mail.ru">eldvig39@mail.ru</a>, or <a href="inter-balt@yandex.ru">inter-balt@yandex.ru.</a>
+<br>
+<br>
+</p>
+ <table style="text-align: left; width: 40%; margin-left: auto; margin-right: auto; background-color: rgb(255, 255, 102);" border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="index_en.html" target="_blank"> Home</a><br></font> </td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="novosty.html" target="_blank">News</a><br> </font> </td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="eldvig.html" target="_blank">Eldvig program</a><br> </font> </td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="eldvig_video.html" target="_self">Tutorial video </a></font></td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="price.html" target="" _blank="">Prices</a><br></font></td>
+      <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="kontacty.html" target="" _blank="">Contact us</a><br></font></td>
+       <td style="vertical-align: middle; text-align: center; width: 60px;"><font size="-1"><a href="vopr_eldv.html" target="" _blank="">Answers to questions</a><br></font></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+</body>
+</html>
