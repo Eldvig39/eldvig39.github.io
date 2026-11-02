@@ -1,47 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Файл sitemap.xml динамически создан сайтом https://gensitemap.ru/ 24.06.2017 16:35,
-	всего найдено 6. страниц-->
-	<url>
-		<loc>http://eldvig.rf.gd/</loc>
-		<lastmod>2017-06-24T16:35:07+03:00</lastmod>
-		<priority>1</priority>
-		<changefreq>always</changefreq>
-	</url>
-	<url>
-		<loc>http://http://eldvig.rf.gd/eldvig.html</loc>
-		<lastmod>2017-06-24T16:35:07+03:00</lastmod>
-		<priority>0.5</priority>
-		<changefreq>hourly</changefreq>
-	</url>
-	<url>
-		<loc>http://eldvig.rf.gd/eldvig_video.html</loc>
-		<lastmod>2017-06-24T16:35:07+03:00</lastmod>
-		<priority>0.5</priority>
-		<changefreq>hourly</changefreq>
-	</url>
-	<url>
-		<loc>http://eldvig.rf.gd/katalog.htm</loc>
-		<lastmod>2017-06-24T16:35:07+03:00</lastmod>
-		<priority>0.5</priority>
-		<changefreq>hourly</changefreq>
-	</url>
-	<url>
-		<loc>http://eldvig.rf.gd/kontacty.html</loc>
-		<lastmod>2017-06-24T16:35:07+03:00</lastmod>
-		<priority>0.5</priority>
-		<changefreq>hourly</changefreq>
-	</url>
-	<url>
-		<loc>http://eldvig.rf.gd/price.html</loc>
-		<lastmod>2017-06-24T16:35:07+03:00</lastmod>
-		<priority>0.5</priority>
-		<changefreq>hourly</changefreq>
-	</url>
-	<url>
-		<loc>http://eldvig.rf.gd/vopr_eldv.html</loc>
-		<lastmod>2017-06-24T16:35:07+03:00</lastmod>
-		<priority>0.5</priority>
-		<changefreq>hourly</changefreq>
-	</url>
-</urlset>		     		    			    
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- ������� (RU) -->
+  <url>
+    <loc>https://eldvig39.github.io/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://eldvig39.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://eldvig39.github.io/en_us/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://eldvig39.github.io/pt_br/"/>
+  </url>
+  <!-- RU -->
+  <url>
+    <loc>https://eldvig39.github.io/eldvig.html</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://eldvig39.github.io/eldvig.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://eldvig39.github.io/en_us/eldvig.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://eldvig39.github.io/pt_br/eldvig.html"/>
+  </url>
+  <url>
+    <loc>https://eldvig39.github.io/eldvig_video.html</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://eldvig39.github.io/eldvig_video.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://eldvig39.github.io/en_us/eldvig_video.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://eldvig39.github.io/pt_br/eldvig_video.html"/>
+  </url>
+  <url>
+    <loc>https://eldvig39.github.io/kontacty.html</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://eldvig39.github.io/kontacty.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://eldvig39.github.io/en_us/kontacty.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://eldvig39.github.io/pt_br/kontacty.html"/>
+  </url>
+  <url>
+    <loc>https://eldvig39.github.io/novosty.html</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://eldvig39.github.io/novosty.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://eldvig39.github.io/en_us/novosty.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://eldvig39.github.io/pt_br/novosty.html"/>
+  </url>
+  <url>
+    <loc>https://eldvig39.github.io/price.html</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://eldvig39.github.io/price.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://eldvig39.github.io/en_us/price.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://eldvig39.github.io/pt_br/price.html"/>
+  </url>
+  <url>
+    <loc>https://eldvig39.github.io/vopr_eldv.html</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://eldvig39.github.io/vopr_eldv.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://eldvig39.github.io/en_us/vopr_eldv.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://eldvig39.github.io/pt_br/vopr_eldv.html"/>
+  </url>
+  <!-- EN -->
+  <url>
+    <loc>https://eldvig39.github.io/en_us/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://eldvig39.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://eldvig39.github.io/en_us/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://eldvig39.github.io/pt_br/"/>
+  </url>
+  <!-- PT -->
+  <url>
+    <loc>https://eldvig39.github.io/pt_br/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://eldvig39.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://eldvig39.github.io/en_us/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://eldvig39.github.io/pt_br/"/>
+  </url>
+  <url>
+    <loc>https://eldvig39.github.io/pt_br/index_pt_br.html</loc>
+    <lastmod>2026-11-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://eldvig39.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://eldvig39.github.io/en_us/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://eldvig39.github.io/pt_br/index_pt_br.html"/>
+  </url>
+</urlset>
+

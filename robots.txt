@@ -1,5 +1,4 @@
-
 User-Agent: *
 Allow: /
-Host: http://eldvig.rf.gd
-Sitemap: http://http://eldvig.rf.gd/sitemap.xml
+Host: https://eldvig39.github.io
+Sitemap: https://eldvig39.github.io/sitemap.xml
